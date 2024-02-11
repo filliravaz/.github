@@ -6,5 +6,5 @@ Benvenuto nello spazio tech della Solaris! Zona dedicata per lo sviluppo di appl
 
 Per ulteriori informazioni o domande, contattaci attraverso i seguenti canali:
 
-- Discord: [https://discord.gg/starcitien](https://discord.gg/starcitien](https://discord.gg/starcitien)
-- Forum: [https://robertsspaceindustries.com/spectrum/community/SLR](https://forum.starcitien.org](https://robertsspaceindustries.com/spectrum/community/SLR)https://robertsspaceindustries.com/spectrum/community/SLR)
+- Discord: https://discord.gg/starcitien](https://discord.gg/starcitien
+- Forum: https://robertsspaceindustries.com/spectrum/community/SLR
