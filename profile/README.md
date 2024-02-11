@@ -1,5 +1,10 @@
-## Solaris™
-Organizzazione dedicata a Star Citizen, un universo virtuale di esplorazione spaziale.
+# Solaris
 
-- Discord: https://discord.com/invite/gM4a4RX
-- Sito: WIP
+Benvenuto nello spazio tech della Solaris! Zona dedicata per lo sviluppo di applicazioni di supporto per migliorare la gestione e l´implementazione di funzioni GDR dell´ ORG del gioco.
+
+## Contatti
+
+Per ulteriori informazioni o domande, contattaci attraverso i seguenti canali:
+
+- Discord: [https://discord.gg/starcitien](https://discord.gg/starcitien](https://discord.gg/starcitien)
+- Forum: [https://robertsspaceindustries.com/spectrum/community/SLR](https://forum.starcitien.org](https://robertsspaceindustries.com/spectrum/community/SLR)https://robertsspaceindustries.com/spectrum/community/SLR)
